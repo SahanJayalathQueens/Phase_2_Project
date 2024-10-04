@@ -1,11 +1,11 @@
-#**introduction:** 
+# **introduction:** 
 
 I am representing The Walt Disney company and they are looking to venture more into the horror franchise. With the TMDB database we want to generate provable statistics that not olny prove horror movies are successful, and how we would make sucessful horror movies. We want to also prove that horror movies can be sucessful with small budgets but still yield returns enough to make future investment. 
 
 ![The_nightmare_before_christmas_poster](https://github.com/user-attachments/assets/6dcfcdfc-6e64-4ddc-8805-9d42361c1b4c)
 ![1_q68GLFmiuXTgbMqDg_OhzQ](https://github.com/user-attachments/assets/586cfd84-80f7-467f-ab01-6c76b2e84989)
 
-#**Overview:**
+# **Overview:**
 With the TMDB database, I found over 30,000 entries with plenty of metrics to test our data with. We used the initial filters where we decided to look at movies from 1996 to the present day because these movies tend to have more realistic budgets that we can get concrete trends from. 
 
 ![Initial DataFrame](Images/init_df.png)
