@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environment
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.h5
+*.pkl
+
+# Logs
+*.log
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.html
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Images folder
+Images/
+
+# IDE settings
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Other
+*.egg-info/
+dist/
+build/
